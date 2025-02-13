@@ -4,4 +4,3 @@
   "routes": [{ "src": "/(.*)", "dest": "app.py" }]
 }
 
-// vercel config for deplotment
